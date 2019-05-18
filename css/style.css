@@ -265,8 +265,18 @@ h2{
 	height: 3px;
 	background-color: rgb(99, 122, 145);
 }
+.bottom-ftr-line{
+	width: 325px;
+	height: 1px;
+	background-color: #C6C6C6;
+}
 .fea{
 	margin-top: 25px;
+}
+.mr-3
+{
+    margin-right: 10px;
+    margin-left: 20px;
 }
 .fea-img {
   width: 20%;
@@ -565,7 +575,11 @@ Contact Us
     font-weight:600;
     margin-bottom:15px;
 }
-
+.mr-4
+{
+    margin-right: 10px;
+    margin-left: 0;
+}
 #sendmessage.show, #errormessage.show, .show {
 	display:block;
 }
@@ -573,7 +587,7 @@ Contact Us
 Footer
 ************************************/
 .footer {
-    padding: 60px 0 20px;
+    padding-top: 60px;
     background: #111;
     color: #ccc;
 }
