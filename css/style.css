@@ -171,6 +171,7 @@ Banner
     left: 50%;
     margin-left: -12.5px;
     border-radius: 12px;
+    
 }
 @-webkit-keyframes rotateplane {
     0%   {top:10px;}
@@ -691,6 +692,18 @@ Footer
 }
 .footer .form-control:focus{
     box-shadow: none;
+}
+.nav-btn-reg
+{
+   
+    color: white;
+} 
+.btn-reg
+{
+    padding: 25px 60px 25px 60px;
+    margin: 40px 0 40px  0;
+   
+    font-size: 30px;
 }
 /***********************************
 ************************************
