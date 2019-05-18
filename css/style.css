@@ -6,7 +6,7 @@
 */
 
 body {
-	font-size: 20px;
+	font-size: 30px;
     line-height: 1.52;
     color: #717f86;
     font-size: 22px;
@@ -107,7 +107,7 @@ Navigation bar
     font-weight: 700;
     padding: 0px;
     height: inherit;
-    font-size: 48px;
+    font-size: 38px;
     margin: 20px 0px;
     color: black;
 }
