@@ -274,6 +274,10 @@ h2{
 .heading {
     width: 80%;
 }
+.marginlft
+{
+    margin-left: 110%;
+}
 .fea i {
     font-size: 39px;
     color: #5FCF80;
