@@ -588,8 +588,8 @@ Footer
 ************************************/
 .footer {
     padding-top: 60px;
-    background: #111;
-    color: #ccc;
+    background: #fafafa;
+    color: black;
 }
 .footer a {
     color: #fff;
