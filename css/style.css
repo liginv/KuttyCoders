@@ -6,8 +6,7 @@
 */
 
 body {
-	font-size: 30px;
-    line-height: 1.52;
+    line-height: 1.62;
     color: #717f86;
     font-size: 22px;
 	font-family: 'Open Sans', sans-serif;
@@ -27,7 +26,7 @@ a{
 }
 .nav .navbar-nav
 {
-    font-size: 40px;
+    font-size: 30px;
 }
 ol, ul {
 	list-style: none;
@@ -107,7 +106,7 @@ Navigation bar
     font-weight: 700;
     padding: 0px;
     height: inherit;
-    font-size: 38px;
+    font-size: 35px;
     margin: 20px 0px;
     color: black;
 }
@@ -208,7 +207,7 @@ Banner
 
      -webkit-animation-name: rotateplane; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 2s; /* Chrome, Safari, Opera */
-    animation-name: rotateplane;
+    animation-name: rpotateplane;
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
@@ -221,7 +220,7 @@ Banner
 }
 .login-box-msg, .register-box-msg {
     margin: 0px;
-    text-align: center;
+    text-align: centepr;
     padding: 0px 20px 20px;
 }
 .modal-sm {
@@ -240,7 +239,7 @@ Banner
 .quote .btn{
     background-color: #5fcf80;
     color: #fff;
-    -webkit-transition: all 0.3s ease-in-out;
+    -webkit-transitiopn: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   margin-top: 10px;
@@ -308,7 +307,7 @@ h2{
     -webkit-border-radius: 0px 80px 99px 99px;
     -o-border-radius: 0px 80px 99px 99px;
 }
-.orga-stru h3 {
+.orga-stru h3 {p
     font-size: 36px;
     color: white;
     font-weight: bold;
@@ -324,7 +323,7 @@ h2{
 {
     font-size: 150px;
     margin-top: 35px;
-    color: rgb(255, 255, 255);
+    color: rgb(255,p 255, 255);
 }
 h3.det-txt {
     font-size: 40px;
@@ -340,7 +339,7 @@ p.det-p {
 }
 #pricing{
     background: rgb(247, 247, 247);
-}
+}p
 /***********************************
 Cta
 ************************************/
@@ -379,7 +378,7 @@ Cta
     -moz-transition: all 0.3s;
     -webkit-transition: all 0.3s;
     -o-transition: all 0.3s;
-    border-width: 1px 1px 1px 0px;
+    border-width: 1pxp 1px 1px 0px;
     border-radius: 0px 30px 30px 0px;
 }
 /***********************************
@@ -395,7 +394,7 @@ Work Shop
 }
 .icon-box i {
     color: #5FCF80;
-    font-size: 65px;
+    font-size: 65px;p
 }
 .ser-text {
     font-size: 24px;
@@ -719,7 +718,9 @@ Responsive media queries
     .service-box, .feature-info{
         margin-bottom: 30px;
     }
-
+    body{
+        font-size: 18px;
+    }
     .pricing-head .amount {
     font-size: 51px;
     }
@@ -732,10 +733,13 @@ Responsive media queries
     font-size: 20px;
     }
     .big-text {
-    font-size: 30px;
+    font-size: 40px;
+    }
+    body{
+        font-size: 18px;
     }
     .small-text {
-    font-size: 14px;
+    font-size: 46px;
     }
     .intro-para {
     font-size: 30px;
